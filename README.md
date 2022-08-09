@@ -1,2 +1,2 @@
 # gittest
-getting started with github
+Getting started with github
